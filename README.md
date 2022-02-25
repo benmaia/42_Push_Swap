@@ -13,12 +13,6 @@
 <p> The learning objectives of this project are rigor, use of C and use of basic algorithms. Especially looking at the complexity of these basic algorithms. Sorting values is simple. To sort them the fastest way possible is less simple, especially because from one integers configuration to another, the most efficient sorting algorithmcan differ.</p>
 </br>
 </br>
-<!-- <p> Born2beRoot OK ✅</p>
-</br>
-<p> Grade: 100% </p>
-<div style="display: inline"><br>
-   <img src="https://media.discordapp.net/attachments/461563270411714561/921376799890501662/Screen_Shot_2021-12-17_at_12.20.48_PM.png">
-</div>
 </br>
 </br>
 <p> Push_Swap OK ✅</p>
