@@ -15,7 +15,7 @@
 ```bash
 git clone https://github.com/benmaia/42_Push_Swap.git
 ```
-<p> To run, use make to compile it, and pass the arguments as intengers </p>
+<p> To run, use make to compile it and create the ./push_swap, and pass the arguments as intengers </p>
 
 ```bash
 ./push_swap 0 -100 90 1042 -9 50 6 -2
