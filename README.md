@@ -19,5 +19,5 @@
 </br>
 <p> Grade: 84% </p>
 <div style="display: inline"><br>
-   <img src="https://media.discordapp.net/attachments/461563270411714561/921376799890501662/Screen_Shot_2021-12-17_at_12.20.48_PM.png">
+   <img src="https://cdn.discordapp.com/attachments/461563270411714561/947116575696244736/010101.png">
 </div>
