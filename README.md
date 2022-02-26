@@ -10,6 +10,18 @@
 </br>
 <p> The Push_swap project is a very simple and highly effective algorithm project: data will need to be sorted. You have at your disposal a set of int values, 2 stacks and a set of instructions to manipulate both stacks. Your goal? Write a program in C called push_swap which calculates and displayson the standard output the smallest program using Push_swap instruction language that sorts the integer arguments received. Easy? We’ll see about that...</p>
 </br>
+<p> To use it:</p>
+
+```bash
+git clone https://github.com/benmaia/42_Push_Swap.git
+```
+<p> To run, use make to compile it, and pass the arguments as intengers </p>
+
+```bash
+./push_swap 0 -100 90 1042 -9 50 6 -2
+```
+<p> Make sure you don't repeat numbers, only use intengers (don't overflow, underflow, or use floats and doubles), put at least 1 argument and that only contains digits, or it will display an Error message!</p>
+<br>
 <p> The learning objectives of this project are rigor, use of C and use of basic algorithms. Especially looking at the complexity of these basic algorithms. Sorting values is simple. To sort them the fastest way possible is less simple, especially because from one integers configuration to another, the most efficient sorting algorithmcan differ.</p>
 </br>
 </br>
