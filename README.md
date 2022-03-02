@@ -17,7 +17,7 @@ git clone https://github.com/benmaia/42_Push_Swap.git
 <p> To run, use make to compile it and create the ./push_swap, and pass the arguments as intengers </p>
 
 ```bash
-./push_swap 0 -100 90 1042 -9 50 6 -2
+make && ./push_swap 0 -100 90 1042 -9 50 6 -2
 ```
 <p> Make sure you don't repeat numbers, only use intengers (don't overflow, underflow, or use floats and doubles), put at least 1 argument and that only contains digits, or it will display an Error message!</p>
 <p> To sort the numbers, we only had 2 stacks (a and b) and 4 types of movements, swap, push, rotate, and reverse rotate:</p>
@@ -28,8 +28,9 @@ git clone https://github.com/benmaia/42_Push_Swap.git
   <li><p> <code>Reverse rotate</code>, does the oposite of the rotate, changes the bottom number of the stack to the top, and every number shifts 1 position down , you can rra (reverse rotate the a stack), rrb (reverse rotate the b stack) and rrr (reverse rotate both stacks at the same time).</p>
 </ul>
 <p> The output will be the the right movements to order the numbers</p>
-<p> MY algorithm takes <code>1084</code> movements to sort 100 numbers (it's a 3/5), and takes <code>6784</code> movements to sort 500 numbers (it's a 4/5).</p>  
+<p> My algorithm takes <code>1084</code> movements to sort 100 numbers (it's a 3/5), and takes <code>6784</code> movements to sort 500 numbers (it's a 4/5).</p>  
 <br>
+<img src="https://im.ezgif.com/tmp/ezgif-1-27f6df9e33.gif" width="1000px" height="400px"/>
 <p> The learning objectives of this project are rigor, use of C and use of basic algorithms. Especially looking at the complexity of these basic algorithms. Sorting values is simple. To sort them the fastest way possible is less simple, especially because from one integers configuration to another, the most efficient sorting algorithmcan differ.</p>
 </br>
 </br>
