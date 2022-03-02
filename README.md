@@ -30,7 +30,7 @@ make && ./push_swap 0 -100 90 1042 -9 50 6 -2
 <p> The output will be the the right movements to order the numbers</p>
 <p> My algorithm takes <code>1084</code> movements to sort 100 numbers (it's a 3/5), and takes <code>6784</code> movements to sort 500 numbers (it's a 4/5).</p>  
 <br>
-<img src="https://im.ezgif.com/tmp/ezgif-1-27f6df9e33.gif" width="1000px" height="400px"/>
+<img src="https://cdn.discordapp.com/attachments/461563270411714561/948585612372475944/ezgif-1-27f6df9e33.gif" width="1000px" height="400px"/>
 <p> The learning objectives of this project are rigor, use of C and use of basic algorithms. Especially looking at the complexity of these basic algorithms. Sorting values is simple. To sort them the fastest way possible is less simple, especially because from one integers configuration to another, the most efficient sorting algorithmcan differ.</p>
 </br>
 </br>
